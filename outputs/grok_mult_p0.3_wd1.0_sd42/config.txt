@@ -1,0 +1,12 @@
+prime: 113
+train_pct: 0.3
+seed: 42
+d_model: 128
+n_heads: 4
+lr: 0.001
+weight_decay: 1.0
+max_epochs: 6000
+log_interval: 50
+init_scale: 1.0
+bias: False
+mask: True
